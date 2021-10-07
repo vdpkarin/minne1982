@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 47,
+    "height" : 39
+  }, {
+    "width" : 94,
+    "height" : 77
+  }, {
+    "width" : 188,
+    "height" : 153
+  }, {
+    "width" : 375,
+    "height" : 305
+  }, {
+    "width" : 750,
+    "height" : 609
+  }, {
+    "width" : 1500,
+    "height" : 1217
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1500,
+  "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-L",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1217
+}
