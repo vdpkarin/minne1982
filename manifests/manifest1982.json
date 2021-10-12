@@ -1,0 +1,1149 @@
+{
+  "id" : "https://vdpkarin.github.io/minne1982/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in vdpkarin/minne1982 project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0010-R/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0010-R" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0010-R/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0010-R/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0010-R",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0010-R/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0010-R/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0010-L/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0010-L" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0010-L/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0010-L/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0010-L",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0010-L/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0010-L/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0009-R/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0009-R" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0009-R/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0009-R/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0009-R",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0009-R/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0009-R/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0009-L/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0009-L" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0009-L/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0009-L/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0009-L",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0009-L/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0009-L/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0008-R/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0008-R" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0008-R/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0008-R/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0008-R",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0008-R/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0008-R/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0008-L/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0008-L" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0008-L/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0008-L/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0008-L",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0008-L/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0008-L/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0007-R/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0007-R" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0007-R/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0007-R/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0007-R",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0007-R/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0007-R/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0007-L/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0007-L" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0007-L/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0007-L/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0007-L",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0007-L/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0007-L/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-R/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0006-R" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-R/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-R/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-R",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-R/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-R/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-L/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0006-L" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-L/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-L/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-L",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-L/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-L/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0005-R/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0005-R" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0005-R/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0005-R/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0005-R",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0005-R/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0005-R/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0005-L/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0005-L" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0005-L/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0005-L/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0005-L",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0005-L/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0005-L/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0004-R/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0004-R" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0004-R/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0004-R/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0004-R",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0004-R/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0004-R/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0004-L/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0004-L" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0004-L/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0004-L/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0004-L",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0004-L/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0004-L/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-R/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0003-R" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-R/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-R/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-R",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-R/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-R/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-L/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0003-L" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-L/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-L/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-L",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-L/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0003-L/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0002-R/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0002-R" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0002-R/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0002-R/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0002-R",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0002-R/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0002-R/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0002-L/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0002-L" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0002-L/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0002-L/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0002-L",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0002-L/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0002-L/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0001-R/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0001-R" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0001-R/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0001-R/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0001-R",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0001-R/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0001-R/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  }, {
+    "width" : 1500,
+    "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0001-L/canvas/",
+    "label" : {
+      "none" : [ "20110117_minne_1982_I_2011_0001-L" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0001-L/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0001-L/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 39
+            }, {
+              "width" : 94,
+              "height" : 77
+            }, {
+              "width" : 188,
+              "height" : 153
+            }, {
+              "width" : 375,
+              "height" : 305
+            }, {
+              "width" : 750,
+              "height" : 609
+            }, {
+              "width" : 1500,
+              "height" : 1217
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1500,
+            "@id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0001-L",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1217
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1500,
+          "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0001-L/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1217
+        },
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0001-L/canvas/"
+      } ]
+    } ],
+    "height" : 1217
+  } ]
+}
