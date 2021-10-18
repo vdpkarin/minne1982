@@ -3,6 +3,8 @@
   "label" : {
     "en" : [ "All images loaded in vdpkarin/minne1982 project" ]
   },
+  "viewingDirection": "left-to-right",
+  "viewingHint": "paged",
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
