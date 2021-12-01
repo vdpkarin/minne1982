@@ -1,0 +1,17 @@
+{
+@context: "http://iiif.io/api/presentation/2/context.json"
+@id: "1e89b959-8d75-4bb7-b856-e3af0ace834b"
+@type: "oa:Annotation"
+motivation: ["oa:commenting"]
+0: "oa:commenting"
+on: [{@type: "oa:SpecificResource",…}]
+0: {@type: "oa:SpecificResource",…}
+@type: "oa:SpecificResource"
+full: "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/29/canvas/11.json"
+selector: {@type: "oa:Choice", default: {@type: "oa:FragmentSelector", value: "xywh=181,154,1266,759"},…}
+within: {@id: "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/19/manifest.json", @type: "sc:Manifest"}
+resource: [{@type: "dctypes:Text", format: "text/html",…}]
+0: {@type: "dctypes:Text", format: "text/html",…}
+@type: "dctypes:Text"
+chars: "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; -webkit-text-stroke-color: #000000;\"><span class=\"s1\" style=\"font-kerning: none;\">De tekeningen in dit schetsboek zijn vaak vrij realistische studies van naakte jongelingen, getekend naar levend model. In &eacute;&eacute;n tekening herkennen we de&nbsp;<a href=\"https://www.mskgent.be/nl/collectiestuk/geknielde-man-en-vrouw\" target=\"_blank\" rel=\"noopener\"><span class=\"s2\" style=\"font-kerning: none; color: #1050bb; -webkit-text-stroke-color: #1050bb;\"><strong><em>Geknielde man en vrouw</em></strong></span></a>.</span></p>"
+format: "text/html"
