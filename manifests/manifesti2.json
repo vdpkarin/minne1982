@@ -3,6 +3,11 @@
   "@type" : "sc:Manifest",
   "@id" : "https://vdpkarin.github.io/minne1982/manifests/manifesti2.json",
   "label" : "Schetsboek met studies van figuren",
+    "service": {
+        "profile": "http://iiif.io/api/search/0/search",
+        "@id": https://dev.gdmrdigital.com/search-api/1245635613/87133600/d16fe6465f0702982a9729c0d69c5087/search,
+        "@context": "http://iiif.io/api/search/0/context.json"
+    },
   "metadata" : [ {
     "label" : "Kunstenaar",
     "value" : "George Minne"
