@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial;\"><span class=\"s1\" style=\"font-kerning: none;\">De tekeningen in dit schetsboek zijn vaak vrij realistische studies van naakte jongelingen, getekend naar levend model. In &eacute;&eacute;n tekening herkennen we de&nbsp;<a href=\"https://www.mskgent.be/nl/collectiestuk/geknielde-man-en-vrouw\" target=\"_blank\" rel=\"noopener\"><span class=\"s2\" style=\"font-kerning: none; color: #1050bb;\">Geknielde man en vrouw.\n<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial;\">&nbsp;\n<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial;\"><span class=\"s1\" style=\"font-kerning: none;\"><img src=\"https://images.mskgent.be/1982-B%20kopie.jpg?auto=format&amp;fit=max&amp;h=1228&amp;ixlib=php-1.1.0&amp;q=90&amp;w=1274&amp;s=ce28464c423e306d98f076db82b227aa\" alt=\"Gekielde man en vrouw\" width=\"230\" height=\"306\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial;\"><span class=\"s1\" style=\"font-kerning: none;\">De tekeningen in dit schetsboek zijn vaak vrij realistische studies van naakte jongelingen, getekend naar levend model. In &eacute;&eacute;n tekening herkennen we de&nbsp;<a href=\"https://www.mskgent.be/nl/collectiestuk/geknielde-man-en-vrouw\" target=\"_blank\" rel=\"noopener\"><span class=\"s2\" style=\"font-kerning: none; color: #1050bb;\"><strong><em>Geknielde man en vrouw</em></strong></span></a>.</span></p>\n<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial;\">&nbsp;</p>\n<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial;\"><span class=\"s1\" style=\"font-kerning: none;\"><img src=\"https://images.mskgent.be/1982-B%20kopie.jpg?auto=format&amp;fit=max&amp;h=1228&amp;ixlib=php-1.1.0&amp;q=90&amp;w=1274&amp;s=ce28464c423e306d98f076db82b227aa\" alt=\"Gekielde man en vrouw\" width=\"230\" height=\"306\" /></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/87133600",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2021-12-02T13:39:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638452342683",
+    "dcterms:modified" : "2021-12-02T13:39:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vdpkarin.github.io/minne1982/manifests/manifesti2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=171,185,1279,719"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M170.93245,184.98278h639.54901v0h639.54901v359.65232v359.65232h-639.54901h-639.54901v-359.65232z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ab366c6d-d0ab-41a9-8c6e-3ca49a73459d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/29/canvas/11.json"
+    } ]
+  } ],
+  "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/87133600/21b6017e6e69a36f2c9b6abb13b895b0.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
