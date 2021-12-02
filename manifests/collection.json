@@ -17,5 +17,9 @@
       "en" : [ "All images loaded in vdpkarin/minne1982 project" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://vdpkarin.github.io/minne1982/manifests/manifesti2.json",
+    "label" : "Schetsboek met studies van figuren"
   } ]
 }
