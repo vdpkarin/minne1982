@@ -11,5 +11,11 @@
       "en" : [ "All images loaded in vdpkarin/minne1982 project" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://vdpkarin.github.io/minne1982/manifests/manifest1982w.json",
+    "label" : {
+      "en" : [ "All images loaded in vdpkarin/minne1982 project" ]
+    },
+    "type" : "Manifest"
   } ]
 }
