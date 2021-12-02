@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://vdpkarin.github.io/minne1982/annotations/anno11.json" ],
+  "otherContent" : [ "https://vdpkarin.github.io/minne1982/annotations/anno11.json", "https://vdpkarin.github.io/minne1982/annotations/anno12.json" ],
   "@id" : "https://vdpkarin.github.io/minne1982/annotations/collection.json",
   "label" : "All annotations loaded in vdpkarin/minne1982 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
