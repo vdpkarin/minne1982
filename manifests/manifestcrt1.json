@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/12/manifest.json",
+    "id": "https://vdpkarin.github.io/minne1982/manifests/manifestcrt1.json",
     "type": "Manifest",
     "label": {
         "nl": [
