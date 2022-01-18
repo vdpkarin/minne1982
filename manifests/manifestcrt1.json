@@ -109,7 +109,7 @@
             "width": 6362,
             "items": [
                 {
-                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/12/canvas/1/1",
+                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/12/page/1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
@@ -172,7 +172,7 @@
     ],
     "annotations": [
         {
-            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/12/annotations/p1",
+            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/12/page/p1",
             "type": "AnnotationPage",
             "items": [
                 {
