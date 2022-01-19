@@ -144,21 +144,15 @@
                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1/c2970d84-99c9-43d9-a27a-9066642c157f", 
                    "type": "Annotation",
              	   "motivation": "tagging",
-                    "body": [
+                    "body": 
                         {
                             "type": "TextualBody",
                             "value": "neus brokkelt af",
                             "purpose": "commenting",
-                            "creator": {
-                                "id": "http://www.example.com/hero-solutions",
-                                "name": "Hero Solutions"
-                            },
-                            "created": "2021-11-30T16:49:02.329Z",
-                            "modified": "2021-11-30T16:49:04.089Z"
-                        }
-                    ],
+                            "format": "text/plain"
+                        },
                     "target": {
-                        "source": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/p1#xywh=pixel:1877.3253173828125,1671.6724853515625,1212.6890869140625,1403.1112060546875",
+                        "source": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/p1#xywh=1877,1671,1212,1403",
                         "styleClass": "condition-red",
                         "selector": {
                             "type": "FragmentSelector",
