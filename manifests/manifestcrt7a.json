@@ -1,0 +1,85 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://vdpkarin.github.io/minne1982/manifests/manifestcrt7a.json",
+  "type": "Manifest",
+    "label": {
+        "nl": [
+            "Beeldenstormer"
+        ],
+        "en": [
+            "Iconoclast"
+        ]
+  },
+  "items": [
+    {
+      "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/7/canvas/p1",
+      "type": "Canvas",
+      "height": 6184,
+      "width": 4999,
+      "items": [
+        {
+          "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/7/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/7/annotation/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.kmska.be/c/iiif/2/public@3091.tif/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6184,
+                "width": 4999,
+                "service": [
+                  {
+                    "id": "https://iiif.kmska.be/c/iiif/2/public@3091.tif",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "type": "ImageService2"
+                  }
+                ]
+              },
+              "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/7/canvas/p1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/7/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/7/annotation/p1/51140cb9-cb3e-4fdf-b93f-6132a69f79a3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                 "type": "TextualBody",
+                 "value": "Roestbruine verkleuring"
+                        },
+                        {
+                "type": "TextualBody",
+                "value": "lichte vlek",
+                "purpose": "commenting",
+                "creator": {
+                   "id": "http://www.example.com/hero-solutions",
+                   "name": "Hero Solutions"
+                            },
+                "created": "2021-12-02T08:48:14.836Z",
+                "modified": "2021-12-02T08:48:28.520Z"
+              		},
+                "target": {
+                        "source": "https://iiif.kmska.be/c/iiif/2/public@3091.tif/full/max/0/default.jpg",
+                        "styleClass": "condition-blue",
+                        "selector": {
+                            "type": "SvgSelector",
+                            "value": "<svg><ellipse cx=\"3018.4361572265625\" cy=\"643.9602432250977\" rx=\"458.0628662109375\" ry=\"437.21297454833984\"></ellipse></svg>"
+                        }
+                    }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
