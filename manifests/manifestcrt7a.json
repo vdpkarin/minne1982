@@ -124,7 +124,7 @@
                                 "width": 4999,
                                 "service": {
                                     "id": "https://iiif.kmska.be/c/iiif/2/public@3091.tif",
-                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "profile": "level2",
                                     "type": "ImageService2"
                                 }
                             },
