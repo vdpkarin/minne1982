@@ -1,0 +1,174 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://vdpkarin.github.io/minne1982/manifests/manifestcrt6a.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "De beeldhouwer Augustin Dumont"
+        ],
+        "en": [
+            "The Sculptor Augustin Dumont"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Publisher"
+                ],
+                "en": [
+                    "Publisher"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Koninklijk Museum voor Schone Kunsten Antwerpen"
+                ],
+                "en": [
+                    "Koninklijk Museum voor Schone Kunsten Antwerpen"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Inventarisnummer"
+                ],
+                "en": [
+                    "Object ID"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1519"
+                ],
+                "en": [
+                    "1519"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Titel"
+                ],
+                "en": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "De beeldhouwer Augustin Dumont"
+                ],
+                "en": [
+                    "The Sculptor Augustin Dumont"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "nl": [
+            "De beeldhouwer Augustin Dumont"
+        ],
+        "en": [
+            "The Sculptor Augustin Dumont"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "nl": [
+                "Attributie"
+            ],
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "nl": [
+                "Koninklijk Museum voor Schone Kunsten Antwerpen"
+            ],
+            "en": [
+                "Koninklijk Museum voor Schone Kunsten Antwerpen"
+            ]
+        }
+    },
+    "viewingDirection": "left-to-right",
+    "items": [
+        {
+            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "De beeldhouwer Augustin Dumont"
+                ],
+                "en": [
+                    "The Sculptor Augustin Dumont"
+                ]
+            },
+            "height": 7216,
+            "width": 5412,
+            "items": [
+                {
+                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/page/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.kmska.be/c/iiif/2/public@2076.tif/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 7216,
+                                "width": 5412,
+                                "service": {
+                                    "id": "https://iiif.kmska.be/c/iiif/2/public@2076.tif",
+                                    "profile": "level2",
+                                    "type": "ImageService2"
+                                }
+                            },
+                            "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "annotations": [
+        {
+            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/page/p1",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "type": "Annotation",
+             	   "motivation": "tagging",
+                    "body": [
+                        {
+                            "type": "TextualBody",
+                            "value": "neus brokkelt af",
+                            "purpose": "commenting",
+                            "creator": {
+                                "id": "http://www.example.com/hero-solutions",
+                                "name": "Hero Solutions"
+                            },
+                            "created": "2021-11-30T16:49:02.329Z",
+                            "modified": "2021-11-30T16:49:04.089Z"
+                        }
+                    ],
+                    "target": {
+                        "source": "https://iiif.kmska.be/c/iiif/2/public@2076.tif/full/max/0/default.jpg",
+                        "styleClass": "condition-red",
+                        "selector": {
+                            "type": "FragmentSelector",
+                            "conformsTo": "http://www.w3.org/TR/media-frags/",
+                            "value": "xywh=pixel:1877.3253173828125,1671.6724853515625,1212.6890869140625,1403.1112060546875"
+                        }
+                    },
+                    "@context": "http://iiif.io/api/presentation/3/context.json",
+                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1/c2970d84-99c9-43d9-a27a-9066642c157f"
+                }
+            ]
+        }
+    ]
+}
