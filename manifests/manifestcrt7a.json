@@ -125,7 +125,7 @@
                                 "service": {
                                     "id": "https://iiif.kmska.be/c/iiif/2/public@3091.tif",
                                     "profile": "level2",
-                                    "type": "ImageService2"
+                                    "type": "ImageService3"
                                 }
                             },
                             "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/7/canvas/p1"
