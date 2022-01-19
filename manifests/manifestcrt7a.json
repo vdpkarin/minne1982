@@ -141,26 +141,13 @@
             "type": "AnnotationPage",
             "items": [
                 {
-                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/7/annotation/p1/51140cb9-cb3e-4fdf-b93f-6132a69f79a3",
+                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/7/annotation/p2/51140cb9-cb3e-4fdf-b93f-6132a69f79a3",
                     "type": "Annotation",
-                    "motivation": "tagging",
-                    "body": [
+                    "body":
                         {
                             "type": "TextualBody",
                             "value": "Roestbruine verkleuring"
                         },
-                        {
-                            "type": "TextualBody",
-                            "value": "lichte vlek",
-                            "purpose": "commenting",
-                            "creator": {
-                                "id": "http://www.example.com/hero-solutions",
-                                "name": "Hero Solutions"
-                            },
-                            "created": "2021-12-02T08:48:14.836Z",
-                            "modified": "2021-12-02T08:48:28.520Z"
-                        }
-                    ],
                     "target": {
                         "source": "https://iiif.kmska.be/c/iiif/2/public@3091.tif/full/max/0/default.jpg",
                         "styleClass": "condition-blue",
