@@ -98,7 +98,7 @@
     "viewingDirection": "left-to-right",
     "items": [
         {
-            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/p1",
+            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1",
             "type": "Canvas",
             "label": {
                 "nl": [
@@ -112,11 +112,11 @@
             "width": 5412,
             "items": [
                 {
-                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/page/p1/1",
+                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/page/1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p0001-image",
+                            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1/c2970d84-99c9-43d9-a27a-9066642c157f",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -131,7 +131,7 @@
                                     "type": "ImageService2"
                                 }
                             },
-                            "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/p1"
+                            "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1"
                         }
                     ]
                 }
@@ -144,19 +144,27 @@
             "type": "AnnotationPage",
             "items": [
                 {
-                 "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotationPage/1/2", 
-                 "type": "Annotation",
-             	   "motivation": "tagging",
-                  "label": { 
-                    "nl" :[ "test anno crtool"]
-                        },
-                    "body": {
+                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotationPage/1/2",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": [
+                        {
                             "type": "TextualBody",
                             "value": "neus brokkelt af",
-                            "format": "text/plain"
-                        },
-                    "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/p1#xywh=1877,1671,1212,1403"
-                },
+                            "purpose": "commenting",
+                            "format": "text/plain",
+                            "creator": {
+                                "id": "http://www.example.com/hero-solutions",
+                                "name": "Hero Solutions"
+                            },
+                            "created": "2021-11-30T16:49:02.329Z",
+                            "modified": "2021-11-30T16:49:04.089Z"
+                        }
+                    ],
+                    "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1#xywh=1877,1671,1212,1403"
+                        }
+                    },
+                }
             ]
         }
     ]
