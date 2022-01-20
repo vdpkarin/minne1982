@@ -116,7 +116,7 @@
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1/c2970d84-99c9-43d9-a27a-9066642c157f",
+                            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p0001-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -127,7 +127,7 @@
                                 "width": 5412,
                                 "service": {
                                     "id": "https://iiif.kmska.be/c/iiif/2/public@2076.tif",
-                                    "profile": "level2",
+                                    "profile": "level1",
                                     "type": "ImageService2"
                                 }
                             },
