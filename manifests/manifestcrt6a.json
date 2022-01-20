@@ -154,16 +154,8 @@
                         {
                             "type": "TextualBody",
                             "value": "neus brokkelt af",
-                            "purpose": "commenting",
-                            "format": "text/plain",
-                            "creator": {
-                                "id": "http://www.example.com/hero-solutions",
-                                "name": "Hero Solutions"
-                            },
-                            "created": "2021-11-30T16:49:02.329Z",
-                            "modified": "2021-11-30T16:49:04.089Z"
-                        }
-                    ],
+                            "format": "text/plain"
+                        },
                     "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/p1#xywh=1877,1671,1212,1403"
                 }
             ]
