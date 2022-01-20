@@ -140,10 +140,11 @@
     ],
     "annotations": [
         {
-            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/page/p1",
+            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/page/p2/1",
             "type": "AnnotationPage",
             "items": [
                 {
+                 "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p0002-tag", 
                  "type": "Annotation",
              	   "motivation": "tagging",
                     "body": [
@@ -151,6 +152,7 @@
                             "type": "TextualBody",
                             "value": "neus brokkelt af",
                             "purpose": "commenting",
+                            "format": "text/plain",
                             "creator": {
                                 "id": "http://www.example.com/hero-solutions",
                                 "name": "Hero Solutions"
@@ -159,17 +161,7 @@
                             "modified": "2021-11-30T16:49:04.089Z"
                         }
                     ],
-                    "target": {
-                        "source": "https://iiif.kmska.be/c/iiif/2/public@2076.tif/full/max/0/default.jpg",
-                        "styleClass": "condition-red",
-                        "selector": {
-                            "type": "FragmentSelector",
-                            "conformsTo": "http://www.w3.org/TR/media-frags/",
-                            "value": "xywh=pixel:1877.3253173828125,1671.6724853515625,1212.6890869140625,1403.1112060546875"
-                        }
-                    },
-                    "@context": "http://iiif.io/api/presentation/3/context.json",
-                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1/c2970d84-99c9-43d9-a27a-9066642c157f"
+                    "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/p1#xywh=1877,1671,1212,1403"
                 }
             ]
         }
