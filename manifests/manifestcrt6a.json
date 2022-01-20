@@ -151,7 +151,6 @@
                         {
                             "type": "TextualBody",
                             "value": "neus brokkelt af",
-                            "purpose": "commenting",
                             "format": "text/plain"
                         },
                     "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1#xywh=1877,1671,1212,1403"
