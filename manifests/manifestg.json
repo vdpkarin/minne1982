@@ -1,0 +1,87 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://vdpkarin.github.io/minne1982/manifests/manifestg.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De gulzigheid - James Ensor"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": ["Kunstenaar"]
+      },
+      "value": {
+        "nl": ["James Ensor"]
+      }
+    },
+    {
+      "label": {
+        "nl": ["Inventarisnummer"]
+      },
+      "value": {
+        "nl": ["1998-B-124"]
+      }
+    }  
+  ],
+  "items": [
+    {
+      "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/canvas/p1",
+      "type": "Canvas",
+      "height": 3889,
+      "width": 5000,
+      "items": [
+        {
+          "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909.tif/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3889,
+                "width": 5000,
+                "service": [
+                  {
+                    "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              },
+              "target": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/canvas/p1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/annotation/p0002-tag",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "Zwientje",
+                "language": "nl",
+                "format": "text/plain"
+              },
+              "target": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/canvas/p1#xywh=3500,580,350,300"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
