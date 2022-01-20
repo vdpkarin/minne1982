@@ -140,13 +140,16 @@
     ],
     "annotations": [
         {
-            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/page/p2/1",
+            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotationPage/1",
             "type": "AnnotationPage",
             "items": [
                 {
-                 "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p0002-tag", 
+                 "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotationPage/1/2", 
                  "type": "Annotation",
              	   "motivation": "tagging",
+                  "label": { 
+                    "nl" :[ "test anno crtool"]
+                        },
                     "body": [
                         {
                             "type": "TextualBody",
