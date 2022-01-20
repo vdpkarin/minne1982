@@ -1,8 +1,6 @@
 {
-  "@context": [
-    "http://www.w3.org/ns/anno.jsonld",
+  "@context": 
     "http://iiif.io/api/presentation/3/context.json"
-  ],
   "id": "https://vdpkarin.github.io/minne1982/manifests/manifestg.json",
   "type": "Manifest",
   "label": {
