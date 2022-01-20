@@ -150,14 +150,13 @@
                   "label": { 
                     "nl" :[ "test anno crtool"]
                         },
-                    "body": [
-                        {
+                    "body": {
                             "type": "TextualBody",
                             "value": "neus brokkelt af",
                             "format": "text/plain"
                         },
                     "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/p1#xywh=1877,1671,1212,1403"
-                }
+                },
             ]
         }
     ]
