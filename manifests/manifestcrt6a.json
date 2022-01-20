@@ -127,8 +127,8 @@
                                 "width": 5412,
                                 "service": {
                                     "id": "https://iiif.kmska.be/c/iiif/2/public@2076.tif",
-                                    "profile": "level1",
                                     "type": "ImageService2"
+                                    "profile": "level2",
                                 }
                             },
                             "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/p1"
@@ -140,11 +140,11 @@
     ],
     "annotations": [
         {
-            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/page/p2/1",
+            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotationPage/1",
             "type": "AnnotationPage",
             "items": [
                 {
-                   "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1/c2970d84-99c9-43d9-a27a-9066642c157f", 
+                   "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotationPage/1/2", 
                    "type": "Annotation",
              	   "motivation": "tagging",
                     "body": 
