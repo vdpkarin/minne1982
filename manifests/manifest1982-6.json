@@ -78,7 +78,11 @@
         "motivation" : "Painting",
         "id" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-L/annotation/",
         "type" : "Annotation",
-        "body" : {
+        "body": {
+				"type": "TextualBody",
+				"value": "Geknielde man en vrouw",
+				"format": "text/html"
+			  },
           "service" : [ {
             "tiles" : [ {
               "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
@@ -117,7 +121,7 @@
           "type" : "Image",
           "height" : 1217
         },
-        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-L/canvas/"
+        "target" : "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006-L/canvas/#xywh=171,185,1279,719"
       } ]
     } ],
     "height" : 1217
