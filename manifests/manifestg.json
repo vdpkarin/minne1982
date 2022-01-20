@@ -1,11 +1,13 @@
 {
-  "@context": 
-    "http://iiif.io/api/presentation/3/context.json"
+  "@context": [
+    "http://iiif.io/api/presentation/3/context.json",
+    "http://www.w3.org/ns/anno.jsonld"
+  ],
   "id": "https://vdpkarin.github.io/minne1982/manifests/manifestg.json",
   "type": "Manifest",
   "label": {
     "nl": [
-      "De gulzigheid - James Ensor"
+      "Zelfportret (studie)"
     ]
   },
   "metadata": [
@@ -14,7 +16,7 @@
         "nl": ["Kunstenaar"]
       },
       "value": {
-        "nl": ["James Ensor"]
+        "nl": ["Theo Van Rysselberghe"]
       }
     },
     {
@@ -22,60 +24,59 @@
         "nl": ["Inventarisnummer"]
       },
       "value": {
-        "nl": ["1998-B-124"]
+        "nl": ["1970-AE"]
       }
     }  
   ],
   "items": [
     {
-      "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/canvas/p1",
+      "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/canvas/21b3d435-86be-785b-372a-9316044840ab",
       "type": "Canvas",
       "height": 3889,
       "width": 5000,
       "items": [
         {
-          "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/page/p1/1",
+          "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/page/21b3d435-86be-785b-372a-9316044840ab/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/annotation/p0001-image",
+              "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/annotation/12d9ba97-88bd-e4b6-d539-de6ed6773a7f",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909.tif/full/max/0/default.jpg",
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 3889,
-                "width": 5000,
+                "height": 5000,
+                "width": 3223,
                 "service": [
                   {
-                    "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909.tif",
+                    "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066",
                     "profile": "level1",
                     "type": "ImageService2"
                   }
                 ]
               },
-              "target": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/canvas/p1"
+              "target": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/canvas/21b3d435-86be-785b-372a-9316044840ab"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/page/p2/1",
+          "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/annotationPage/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/annotation/p0002-tag",
+              "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/annotationPage/1/2",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
-                "value": "Zwientje",
-                "language": "nl",
+                "value": "met de vlam in de pijp",
                 "format": "text/plain"
               },
-              "target": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909/canvas/p1#xywh=3500,580,350,300"
+              "target": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/canvas/21b3d435-86be-785b-372a-9316044840ab#xywh=2580,1850,350,380"
             }
           ]
         }
