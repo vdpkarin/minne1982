@@ -125,12 +125,14 @@
                                 "format": "image/jpeg",
                                 "height": 7216,
                                 "width": 5412,
-                                "service": {
+                                "service": [
+                                    {
                                     "id": "https://iiif.kmska.be/c/iiif/2/public@2076.tif",
                                     "profile": "level1",
                                     "type": "ImageService2"
-                                }
-                            },
+                                  }
+                                ]
+                              },
                             "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1"
                         }
                     ]
@@ -147,8 +149,7 @@
                     "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotationPage/1/2",
                     "type": "Annotation",
                     "motivation": "tagging",
-                    "body":
-                        {
+                    "body": {
                             "type": "TextualBody",
                             "value": "neus brokkelt af",
                             "format": "text/plain"
