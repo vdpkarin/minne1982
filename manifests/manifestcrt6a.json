@@ -112,7 +112,7 @@
             "width": 5412,
             "items": [
                 {
-                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1/1",
+                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/page/1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
@@ -148,10 +148,12 @@
                 {
                  "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1/c2970d84-99c9-43d9-a27a-9066642c157f",
                     "type": "Annotation",
+                    "motivation": "tagging",
                     "body": [
                         {
                             "type": "TextualBody",
                             "value": "neus brokkelt af",
+                            "format": "text/plain",
                             "purpose": "commenting",
                             "creator": {
                                 "id": "http://www.example.com/hero-solutions",
