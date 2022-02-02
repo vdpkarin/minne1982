@@ -164,6 +164,7 @@
                         }
                     ],
                     "target": {
+                       "type": "SpecificResource",
                         "source": "https://iiif.kmska.be/c/iiif/2/public@2076.tif/full/max/0/default.jpg",
                         "styleClass": "condition-red",
                         "selector": {
