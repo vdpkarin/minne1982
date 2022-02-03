@@ -4,16 +4,8 @@
     "http://www.w3.org/ns/anno.jsonld"
   ],
   "id": "https://vdpkarin.github.io/minne1982/manifests/manifest70d3anno.json",
-"type": "Manifest",
-  "label": {
-    "en": [
-      "Self-Portrait (sketch)"
-    ],
-    "nl": [
-      "Zelfportret (studie)"
-    ]
-  },
-    "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "type": "Manifest",
+  "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
   "requiredStatement": {
     "value": {
       "en": [
@@ -33,6 +25,24 @@
     }
   },
 "metadata": [
+      {
+      "value": {
+        "en": [
+          "Self-Portrait (sketch)"
+        ],
+        "nl": [
+          "Zelfportret (studie)"
+        ]
+      },
+      "label": {
+        "en": [
+          "Item"
+        ],
+        "nl": [
+          "Item"
+        ]
+      }
+    },
     {
       "value": {
         "en": [
@@ -172,7 +182,7 @@
                 "value": "met de vlam in de pijp",
                 "format": "text/plain"
               },
-              "target": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/canvas/21b3d435-86be-785b-372a-9316044840ab#xywh=1380,1500,2350,880"
+              "target": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/canvas/21b3d435-86be-785b-372a-9316044840ab#xywh=880,1500,2350,850"
             }
           ]
         }
