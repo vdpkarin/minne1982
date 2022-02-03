@@ -5,14 +5,6 @@
   ],
   "id": "https://vdpkarin.github.io/minne1982/manifests/manifest70d3anno.json",
   "type": "Manifest",
-  "label": {
-        "en": [
-          "Self-Portrait (sketch)"
-        ],
-        "nl": [
-          "Zelfportret (studie)"
-        ]
-      },
   "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
   "requiredStatement": {
     "value": {
@@ -142,8 +134,16 @@
       }
     }
   ],
-  "items": [    
-    {
+  "items": [
+        {
+      "label": {
+        "en": [
+          "Self-Portrait (sketch)"
+        ],
+        "nl": [
+          "Zelfportet (studie)"
+        ]
+      },
       "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/canvas/21b3d435-86be-785b-372a-9316044840ab",
       "type": "Canvas",
       "height": 5000,
