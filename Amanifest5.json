@@ -65,7 +65,7 @@
       "annotations": [
         {
           "@context": "http://iiif.io/api/presentation/3/context.json",
-          "id": "iiif/annotations/A16098000005-htr.json",
+          "id": "https://vdpkarin.github.io/minne1982/A16098000005.json",
           "type": "AnnotationPage"
         }
       ],
