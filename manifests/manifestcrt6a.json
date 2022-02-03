@@ -165,7 +165,7 @@
                         "selector": {
                             "type": "FragmentSelector",
                             "conformsTo": "http://www.w3.org/TR/media-frags/",
-                            "value": "xywh=pixel:1877.3253173828125,1671.6724853515625,1212.6890869140625,1403.1112060546875"
+                            "value": "xywh=pixel:1877,1671,1212,1403"
                         }
                     },
                     "@context": "http://iiif.io/api/presentation/3/context.json",
