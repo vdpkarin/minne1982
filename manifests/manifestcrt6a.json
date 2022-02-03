@@ -112,11 +112,11 @@
             "width": 5412,
             "items": [
                 {
-                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1/1",
+                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/page/1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/1-image",
+                            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1/c2970d84-99c9-43d9-a27a-9066642c157f",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -127,7 +127,7 @@
                                 "width": 5412,
                                 "service": {
                                     "id": "https://iiif.kmska.be/c/iiif/2/public@2076.tif",
-                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "profile": "level2",
                                     "type": "ImageService2"
                                 }
                             },
@@ -145,6 +145,7 @@
             "items": [
                 {
                     "type": "Annotation",
+                    "motivation": "tagging",
                     "body": [
                         {
                             "type": "TextualBody",
@@ -167,9 +168,7 @@
                             "conformsTo": "http://www.w3.org/TR/media-frags/",
                             "value": "xywh=pixel:1877,1671,1212,1403"
                         }
-                    },
-                    "@context": "http://iiif.io/api/presentation/3/context.json",
-                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1/c2970d84-99c9-43d9-a27a-9066642c157f"
+                    }
                 }
             ]
         }
