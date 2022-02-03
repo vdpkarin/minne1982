@@ -32,11 +32,11 @@
     {
       "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/canvas/1",
       "type": "Canvas",
-      "height": 3223,
-      "width": 5000,
+      "height": 5000,
+      "width": 3223,
       "items": [
         {
-          "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/page/1",
+          "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/page/1/1",
           "type": "AnnotationPage",
           "items": [
             {
