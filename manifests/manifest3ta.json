@@ -68,7 +68,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE//annotationPage/1/2",
+              "id": "imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/annotationPage/1/2",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
