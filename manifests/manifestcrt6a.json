@@ -144,7 +144,7 @@
             "type": "AnnotationPage",
             "items": [
                 {
-                  "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1"
+                  "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1",
                     "type": "Annotation",
                     "motivation": "tagging",
                     "body": [
