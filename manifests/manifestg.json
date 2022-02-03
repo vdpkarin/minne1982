@@ -32,8 +32,8 @@
     {
       "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/canvas/21b3d435-86be-785b-372a-9316044840ab",
       "type": "Canvas",
-      "height": 3889,
-      "width": 5000,
+      "height": 5000,
+      "width": 3223,
       "items": [
         {
           "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/page/21b3d435-86be-785b-372a-9316044840ab/1",
@@ -76,7 +76,7 @@
                 "value": "met de vlam in de pijp",
                 "format": "text/plain"
               },
-              "target": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/canvas/21b3d435-86be-785b-372a-9316044840ab#xywh=2380,1500,2350,880"
+              "target": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/canvas/21b3d435-86be-785b-372a-9316044840ab#xywh=880,1500,2310,850"
             }
           ]
         }
