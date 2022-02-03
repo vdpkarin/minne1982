@@ -68,7 +68,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE//annotation/p0002-tag",
+              "id": "imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/annotation/p0002-tag",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -76,7 +76,7 @@
                 "value": "met de vlam in de pijp",
                 "format": "text/plain"
               },
-              "target": "imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/canvas/1#xywh=2380,1500,2350,880"
+              "target": "imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/canvas/p1#xywh=2380,1500,2350,880"
             }
           ]
         }
