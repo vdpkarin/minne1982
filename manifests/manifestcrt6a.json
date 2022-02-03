@@ -96,7 +96,7 @@
         }
     },
     "viewingDirection": "left-to-right",
-   "items": [
+    "items": [
         {
             "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1",
             "type": "Canvas",
@@ -112,7 +112,7 @@
             "width": 5412,
             "items": [
                 {
-                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/page/1/1",
+                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
@@ -125,13 +125,11 @@
                                 "format": "image/jpeg",
                                 "height": 7216,
                                 "width": 5412,
-                                "service": [
-                                   {
+                                "service": {
                                     "id": "https://iiif.kmska.be/c/iiif/2/public@2076.tif",
-                                    "profile": "level2",
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
                                     "type": "ImageService2"
-                                  }
-                               ]
+                                }
                             },
                             "target": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1"
                         }
@@ -140,21 +138,17 @@
             ]
         }
     ],
-  
     "annotations": [
         {
             "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotations/p1",
             "type": "AnnotationPage",
             "items": [
                 {
-                 "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1/c2970d84-99c9-43d9-a27a-9066642c157f",
                     "type": "Annotation",
-                    "motivation": "tagging",
                     "body": [
                         {
                             "type": "TextualBody",
                             "value": "neus brokkelt af",
-                            "format": "text/plain",
                             "purpose": "commenting",
                             "creator": {
                                 "id": "http://www.example.com/hero-solutions",
@@ -165,7 +159,7 @@
                         }
                     ],
                     "target": {
-                       "type": "SpecificResource",
+                        "type": "SpecificResource",
                         "source": "https://iiif.kmska.be/c/iiif/2/public@2076.tif/full/max/0/default.jpg",
                         "styleClass": "condition-red",
                         "selector": {
@@ -173,8 +167,10 @@
                             "conformsTo": "http://www.w3.org/TR/media-frags/",
                             "value": "xywh=pixel:1877.3253173828125,1671.6724853515625,1212.6890869140625,1403.1112060546875"
                         }
-                    }
-              }
+                    },
+                    "@context": "http://iiif.io/api/presentation/3/context.json",
+                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1/c2970d84-99c9-43d9-a27a-9066642c157f"
+                }
             ]
         }
     ]
