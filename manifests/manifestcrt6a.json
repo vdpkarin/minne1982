@@ -140,10 +140,11 @@
     ],
     "annotations": [
         {
-            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotations/p1",
+            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1",
             "type": "AnnotationPage",
             "items": [
                 {
+                  "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/annotation/p1"
                     "type": "Annotation",
                     "motivation": "tagging",
                     "body": [
@@ -161,12 +162,12 @@
                     ],
                     "target": {
                         "type": "SpecificResource",
-                        "source": "https://iiif.kmska.be/c/iiif/2/public@2076.tif/full/max/0/default.jpg",
+                        "source": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/6/canvas/1",
                         "styleClass": "condition-red",
                         "selector": {
                             "type": "FragmentSelector",
                             "conformsTo": "http://www.w3.org/TR/media-frags/",
-                            "value": "xywh=pixel:1877,1671,1212,1403"
+                            "value": "xywh=1877,1671,1212,1403"
                         }
                     }
                 }
