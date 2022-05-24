@@ -3,11 +3,6 @@
   "@type" : "sc:Manifest",
   "@id" : "https://vdpkarin.github.io/minne1982/manifests/manifesti2m.json",
   "label" : "Schetsboek met studies van figuren",
-    "service": {
-        "profile": "http://iiif.io/api/search/0/search",
-        "@id": "https://dev.gdmrdigital.com/search-api/1245635613/87133600/d16fe6465f0702982a9729c0d69c5087/search",
-        "@context": "http://iiif.io/api/search/0/context.json"
-    },
   "metadata" : [ {
     "label" : "Kunstenaar",
     "value" : "George Minne"
@@ -80,11 +75,6 @@
         },
         "on" : "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/29/canvas/11.json"
       } ],
-          "otherContent": [ {
-        "@id": "https://dev.gdmrdigital.com/annotations/1245635613/87133600/21b6017e6e69a36f2c9b6abb13b895b0.json",
-        "@type": "sc:AnnotationList",
-        "label": "My fantastic annotations"
-    }]
     }, {
       "@id" : "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/30/canvas/12.json",
       "@type" : "sc:Canvas",
@@ -110,11 +100,6 @@
         },
         "on" : "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/30/canvas/12.json"
       } ],
-         "otherContent": [ {
-        "@id": "https://dev.gdmrdigital.com/annotations/1245635613/87133600/c6fc2b38679eaf719d556335ce9e4cf1.json",
-        "@type": "sc:AnnotationList",
-        "label": "My fantastic annotations"
-    }]
     } ]
   } ]
 }
