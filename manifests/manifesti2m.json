@@ -74,7 +74,7 @@
           "width" : 1500
         },
         "on" : "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/29/canvas/11.json"
-      } ],
+      } ]
     }, {
       "@id" : "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/30/canvas/12.json",
       "@type" : "sc:Canvas",
@@ -99,7 +99,7 @@
           "width" : 1500
         },
         "on" : "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/30/canvas/12.json"
-      } ],
+      } ]
     } ]
   } ]
 }
