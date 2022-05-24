@@ -81,9 +81,9 @@
         "on" : "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/29/canvas/11.json"
       } ],
           "otherContent": [ {
-        "@id": "https://dev.gdmrdigital.com/annotations/1245635613/87133600/21b6017e6e69a36f2c9b6abb13b895b0.json",
+        "@id" : "https://vdpkarin.github.io/minne1982/annotations/anno11.json",
         "@type": "sc:AnnotationList",
-        "label": "My fantastic annotations"
+        "label": "anno11"
     }]
     }, {
       "@id" : "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/30/canvas/12.json",
@@ -111,9 +111,9 @@
         "on" : "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/30/canvas/12.json"
       } ],
          "otherContent": [ {
-        "@id": "https://dev.gdmrdigital.com/annotations/1245635613/87133600/c6fc2b38679eaf719d556335ce9e4cf1.json",
+        "@id" : "https://vdpkarin.github.io/minne1982/annotations/anno12.json",
         "@type": "sc:AnnotationList",
-        "label": "My fantastic annotations"
+        "label": "anno12"
     }]
     } ]
   } ]
