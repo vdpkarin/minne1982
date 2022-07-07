@@ -1,0 +1,126 @@
+{
+    "@context": [
+      "http://iiif.io/api/presentation/3/context.json",
+      "http://www.w3.org/ns/anno.jsonld"
+    ],
+    "id": "https://vdpkarin.github.io/minne1982/manifests/manifestm3a.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Schetsboek met studies van figuren"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {"nl": ["Titel"] },
+            "value": { "nl": ["Schetsboek ca. 1898"] }
+        },
+        {
+            "label": { "nl": ["Kunstenaar"] },
+            "value": { "nl": ["George Minne"] }
+        },
+        {
+            "label": { "nl": ["Datum"] },
+            "value": { "nl": [ "± 1898" ] }
+        },
+        {
+            "label": { "nl": [ "Inventarisnr." ] },
+            "value": { "nl": [ "1982_I" ] }
+        }
+    ],
+    "summary": {
+        "nl": [
+            "Dit schetsboek bevat een reeks tekeningen waarin de kunstenaar zoekt naar een opstelling van evenwichtig gegroepeerde figuren, hetgeen zal resulteren in \"De fontein der gekielden\" (ca. 1898) Sommige schetsen tonen een zeer dynamische opstelling van elkaar de hand reikende jongelingen, terwijl in andere studies het statisch eindresultaat benaderd wordt."
+        ]
+    },
+    "requiredStatement": {
+        "label": { "nl": [ "Attribution"] },
+        "value": { "nl": [ "Museum voor Schone Kunsten Gent"] }
+    },
+    "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "viewingDirection": "left-to-right",
+    "behavior": ["paged"],
+    "items": [
+        {
+            "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/canvas/2",
+            "type": "Canvas",
+            "height": 1217,
+            "width": 1500,
+            "items": [
+                {
+                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/canvas/2/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/annotation/2-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F20.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1217,
+                                "width": 1500
+                            },
+                            "target": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/canvas/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/canvas/11",
+            "type": "Canvas",
+            "height": 1217,
+            "width": 1500,
+            "items": [
+                {
+                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/canvas/11/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/annotation/11-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F29.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1217,
+                                "width": 1500
+                            },
+                            "target": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/canvas/11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/canvas/12",
+            "type": "Canvas",
+            "height": 1217,
+            "width": 1500,
+            "items": [
+                {
+                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/canvas/12/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/annotation/12-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F30.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1217,
+                                "width": 1500
+                            },
+                            "target": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/canvas/12"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
