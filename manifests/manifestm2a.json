@@ -82,6 +82,12 @@
                                 "width": 1500
                             },
                             "on": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif//canvas/11.json"
+                           } 
+                        ],
+                        "otherContent": [ {
+                        "@id" : "https://vdpkarin.github.io/annonatate/annotations/11-list.json",
+                        "@type": "sc:AnnotationList",
+                        "label": "anno11"
                         }
                     ]
                 },
@@ -110,6 +116,12 @@
                                 "width": 1500
                             },
                             "on": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif//canvas/12.json"
+                          } 
+                        ],
+                        "otherContent": [ {
+                        "@id" : "https://vdpkarin.github.io/annonatate/annotations/12-list.json",
+                        "@type": "sc:AnnotationList",
+                        "label": "anno12"
                         }
                     ]
                 }
