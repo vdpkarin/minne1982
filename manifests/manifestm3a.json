@@ -40,6 +40,10 @@
     "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
     "viewingDirection": "left-to-right",
     "behavior": ["paged"],
+    "start": {
+    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/canvas/11",
+    "type": "Canvas"
+  },
     "items": [
         {
             "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/canvas/2",
