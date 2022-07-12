@@ -94,6 +94,12 @@
                     ]
                 }
             ]
+        "annotations": [
+        {
+          "id": "https://vdpkarin.github.io/annonatate/annotations/3-11-list.json",
+          "type": "AnnotationPage"
+        }
+      ]
         },
         {
             "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/3/canvas/12",
@@ -121,6 +127,12 @@
                     ]
                 }
             ]
+         "annotations": [
+        {
+          "id": "https://vdpkarin.github.io/annonatate/annotations/3-12-list.json",
+          "type": "AnnotationPage"
+        }
+      ]
         }
     ]
 }
