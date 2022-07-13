@@ -86,8 +86,7 @@
                         ],
                         "otherContent": [ {
                         "@id" : "https://vdpkarin.github.io/annonatate/annotations/11-list.json",
-                        "@type": "sc:AnnotationList",
-                        "label": "anno11"
+                        "@type": "sc:AnnotationList"
                         }
                     ]
                 },
@@ -120,8 +119,7 @@
                         ],
                         "otherContent": [ {
                         "@id" : "https://vdpkarin.github.io/annonatate/annotations/12-list.json",
-                        "@type": "sc:AnnotationList",
-                        "label": "anno12"
+                        "@type": "sc:AnnotationList"
                         }
                     ]
                 }
